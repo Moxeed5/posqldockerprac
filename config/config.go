@@ -4,6 +4,7 @@ import (
 	"os"
 )
 
+// test
 type Config struct {
 	DBUsername string
 	DBPassword string
